@@ -9,6 +9,8 @@ Welcome to the Arduino Projects repository! This repository contains a collectio
 ## Project List
 
 Here arethe projects included in this repository:
+
+
 1️⃣ LED Blink – The most basic Arduino project! This makes an LED blink on and off every second using digitalWrite() and delay().
 
 2️⃣ Button Controlled LED – Press a button, and the LED turns on. Release the button, and it turns off. Uses digitalRead() with INPUT_PULLUP.
